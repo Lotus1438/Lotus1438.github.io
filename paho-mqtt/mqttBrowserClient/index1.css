@@ -1,0 +1,71 @@
+h1 {
+    border: 1px solid black;
+}
+
+.row {
+    padding: 5px;
+}
+
+div.form-group {
+    border: 1px solid black;
+    padding: 20px;
+    width: 100%;
+    display: inline-block;
+    margin: 15px;
+}
+
+
+.p{
+    float: right;
+}
+
+p{
+    display: inline-block;
+    font-size: 20px;
+}
+
+.hov:hover{
+    background-color: gray;
+    opacity: 0.5;
+}
+.card {
+    border:solid 1px black;
+    border-radius: 5px;
+}
+th,td{
+    padding-left: 20px;
+    text-align: center;
+}
+
+table{
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+tr{
+    display: inline-block;
+    border-bottom: solid 1px black;
+    width: 100%;
+}
+
+.card-header{
+    background-color: pink;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: solid 1px;   
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.card-body{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+input{
+    width: 100%;
+    cursor: pointer;
+    border:solid;
+}
+
