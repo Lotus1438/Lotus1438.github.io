@@ -34,22 +34,24 @@ p{
 }
 th,td{
     padding-left: 20px;
-    text-align: center;
+
 }
 
 table{
     margin-bottom: 30px;
     width: 100%;
+
+
 }
 
 tr{
-    display: inline-block;
     border-bottom: solid 1px black;
     width: 100%;
+    text-align: center;
 }
 
 .card-header{
-    background-color: pink;
+    background-color: lightblue;
     padding-bottom: 10px;
     margin-bottom: 10px;
     border-bottom: solid 1px;   
